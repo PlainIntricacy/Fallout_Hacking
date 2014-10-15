@@ -1,6 +1,8 @@
 Fallout_Hacking
 ===============
 
-WIP
+Program that simulates the Fallout games' Hacking minigame.
 
-https://www.reddit.com/r/dailyprogrammer/comments/263dp1/5212014_challenge_163_intermediate_fallouts/
+Based on this reddit daily challenge:
+
+http://goo.gl/WIbXkL
